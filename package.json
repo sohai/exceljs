@@ -93,7 +93,7 @@
     "dayjs": "^1.8.15",
     "fast-csv": "^3.4.0",
     "jszip": "^3.1.5",
-    "sax": "https://github.com/sohai/sax-js#5b91cb0c68e67a23508a90a795d1a27beeb286e6",
+    "sax": "https://github.com/sohai/sax-js#b9d17cd95df1fb1cc96db84e99eb458345235771",
     "tmp": "^0.1.0",
     "unzipper": "^0.9.12",
     "uuid": "^3.3.3"
